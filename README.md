@@ -31,6 +31,7 @@ __Screenshots:__
 
 __A visual journey around Mont Blanc:__
 ![IMG_1686](https://github.com/user-attachments/assets/b947de43-f798-4f7f-b228-5b4527cc00e6)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f28959db-274e-4ed3-989c-902736d6eb6e" width="300">
   <img src="https://github.com/user-attachments/assets/12aa92d5-5d9f-4e8c-9e65-2393c74d1910" width="300">
@@ -38,9 +39,11 @@ __A visual journey around Mont Blanc:__
   <img src="https://github.com/user-attachments/assets/57a923bd-96ff-4e75-9dfe-0762cfa5e85f" width="300">
   <img src="https://github.com/user-attachments/assets/6b09a2d1-7c9e-4323-af98-e0cdefc40f8a" width="300">
   <img src="https://github.com/user-attachments/assets/9756e654-b8a3-42df-99ca-ab7898a357b9" width="300">
+  <img src="https://github.com/user-attachments/assets/c9782dfb-e047-45e3-a278-32fe3a005c18" width="300">
   <img src="https://github.com/user-attachments/assets/5b1cd57c-0c8b-4804-9a34-0267840f565e" width="300">
   <img src="https://github.com/user-attachments/assets/bf627545-c2ea-40e6-a59f-9a3292768bec" width="300">
-  <img src="https://github.com/user-attachments/assets/c9782dfb-e047-45e3-a278-32fe3a005c18" width="300">
+  
   <img src="https://github.com/user-attachments/assets/8f00b36f-da65-4da6-ba86-d4ea495c9b57" width="300">
 </p>
+
 ![IMG_2643](https://github.com/user-attachments/assets/7f7749a3-7040-4aa4-a615-08c544ea807f)
